@@ -1,4 +1,4 @@
-# flight-analysis-
+# Sky Analyticsof Airline and Airport Operations
 ✈️ Flight Analysis Dashboard – Advanced Excel Data Analytics Project
 
 A complete end-to-end Excel Data Analytics Project that transforms raw airline data into a powerful, interactive dashboard. This project showcases expertise in data cleaning, analysis, KPI design, and dashboard creation, making it ideal for data analyst portfolios and recruiters.
